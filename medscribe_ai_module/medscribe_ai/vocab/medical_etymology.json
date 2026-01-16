@@ -1,0 +1,46 @@
+{
+  "prefixes": {
+    "cardio": "corazón",
+    "neuro": "nervios / sistema nervioso",
+    "gastro": "estómago",
+    "hepato": "hígado",
+    "dermato": "piel",
+    "osteo": "hueso",
+    "oto": "oído",
+    "oftalmo": "ojo",
+    "rino": "nariz",
+    "cito": "célula",
+    "hemo": "sangre",
+    "hiper": "aumento / exceso",
+    "hipo": "disminución / por debajo"
+  },
+  "suffixes": {
+    "itis": "inflamación",
+    "algia": "dolor",
+    "emia": "en sangre / relacionado con sangre",
+    "osis": "proceso / condición",
+    "oma": "tumor / masa",
+    "patía": "enfermedad",
+    "pnea": "respiración",
+    "rragia": "sangrado abundante",
+    "rrrea": "flujo / salida",
+    "scopia": "observación con instrumento",
+    "logía": "estudio"
+  },
+  "roots": {
+    "nefro": "riñón",
+    "pulmo": "pulmón",
+    "veno": "vena",
+    "arterio": "arteria",
+    "cefal": "cabeza",
+    "gineco": "mujer / femenino",
+    "andro": "hombre / masculino"
+  },
+  "examples": {
+    "gastritis": ["gastro", "itis"],
+    "neuralgia": ["neuro", "algia"],
+    "hipertensión": ["hiper"],
+    "anemia": ["emia"],
+    "dermatosis": ["dermato", "osis"]
+  }
+}

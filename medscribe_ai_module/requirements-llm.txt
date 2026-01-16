@@ -1,0 +1,6 @@
+# Optional: LoRA fine-tuning scaffolding
+torch
+transformers>=4.40
+accelerate
+peft
+datasets

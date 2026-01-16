@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "medscribe-ai"
+version = "0.1.0"
+description = "Standalone AI module for MedScribe (Whisper ASR + clinical NLP + etymology vocab)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Edgar Villalobos López"}]
+
+dependencies = [
+  "faster-whisper>=1.0.0",
+  "numpy>=1.23",
+]
+
+[project.optional-dependencies]
+llm = [
+  "torch",
+  "transformers>=4.40",
+  "accelerate",
+  "peft",
+  "datasets",
+]
+
+[project.scripts]
+medscribe-ai = "medscribe_ai.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "."}
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["medscribe_ai*"]

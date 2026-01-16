@@ -1,0 +1,876 @@
+{
+  "transcript": {
+    "ok": true,
+    "model": {
+      "provider": "faster-whisper",
+      "size": "small",
+      "device": "cpu",
+      "compute_type": "int8"
+    },
+    "audio": {
+      "path": "data\\outputs\\result_035_clean.wav",
+      "duration_seconds": null
+    },
+    "language": "es",
+    "language_probability": 1.0,
+    "text": "¿Dónde me siento, por favor? Bueno días, ¿qué tal? Pues tú me siento y en la silla blanca, por favor. Cuénteme, ¿cómo le puedo ayudar hoy? ¿Qué le trae por aquí? Estoy desde hace como desde ayer y estuve comiendo con mi novia un poco de sushi y me noto como que no me bajó un trozo de comida yo creo y lo tengo aquí en la garganta y no sé y estoy un poco nervioso casi no pude dormir porque es que yo creo que mire, perdón, perdón, es que me molesta la garganta. ¿Y qué era? ¿Qué era el sushi? ¿Qué pesadora? Pues era uno de estos, un sashimi o un nigiri de esto que lleva un poco de salmón y lleva rocito. Es el sushi que comemos siempre o sea de hecho nos encanta y creo que lo pedimos casi una vez cada dos semanas. ¿Y te parece que se te ha quedado una espina ahí en la garganta? No, espinas es imposible que tenga porque es un salmón de estos, nunca ha tenido espinas. Yo creo que no sé exactamente qué es porque es como si me hubiese bajado luego subido un poco y lo tengo por aquí y es como si tuviese algo pastoso. Yo trato de tragar y es verdad que si veo un poco de agua trago bien pero no sé, me tiene bastante nervioso y cuando quise dormir y me costaba dormir porque tenía miedo de que me iba de atragantarme. ¿Cuéntame un poco, háblame de tu antecedente personal, ¿tiene alguna enfermedad? ¿tomás tratamiento para algo? No tomo tratamiento para nada y tengo pues simplemente un poco de rimitis alérgica de vez en cuando en primavera sobre todo pero no tomo ningún... ¿Alérgico alguna medicación? No que yo sepa. ¿Fumas? No, no fumo nada. Sí creo un poco, o sea me gusta mucho, además lo que me suele gustar es el godello, el godello gallego allí, sobre todo de Val de Horras que es de donde soy yo y eso sí que tomo, ahí sí que soy pecador. Tomo solo tomar un vasito, una copita o dos más bien el fin de semana pero eso es uno de mis rituales. Yo ya sé que ahora la medicina dice que cualquier cantidad de alcohol es mala pero yo es que lo disfruto muchísimo sobre todo mi amigo de Gito de Val de Horras. ¿Usted no bebe doctor de esto? La verdad que no bebo nada, ni bebo ni fumo, tengo ese defecto. Mi abuelo que vendía vino decía que los que no beben alcohol no son buenas personas pero que le vamos a hacer, yo tengo tengo tengo que predicar con el ejemplo. Lo hubiese condonado su abuelo, estoy seguro. Cuéntame, cuéntame Jorge, ¿tiene algún antecedente familiar en tu familia y alguien con alguna enfermedad, alguna cosa? No, bueno mi madre sí, mi madre tiene así algún tipo de, es un poco neurótica así pero poco más. Vale, oye y vale pues te parece que te echemos un vizazo, miramos tu garganta, vemos qué tal. Sí, vale y antes de eso, se me olvidó decir también, voy a necesitar un papelito porque para que me cuentes también qué he estado por aquí porque la estoy trabajando todo el día en todo momento casi y necesito luego presentar algo al trabajo como que he estado por aquí, ¿te parece? Venga genial, pues luego te hago un justificante, no te preocupes. Venga pues vamos a echar un vizacillo, vale. Abre la boca por favor. Vale pues bueno tienes unas amiguelas así grandotas, pero bueno por lo demás está todo todo bastante normal, no veo ninguna herida ni sangre ni ninguna cosa por ahí. Mira ahora voy a hacerte una cosa bastante incómoda, nadie me lo pide dos veces, vale. Te voy a meterte una camarita por la nariz, esto molesto, no tardó mucho, tardó como unos 15-20 segundos pero bueno no va a permitir ver si hay algo ahí abajo, vale. Vamos a echar un vizacillo, vale, venga, vamos a por ello, empezamos. ¿Qué tal bien? ¿Lo puede aguatar? Vale, a ver, vale, mira, a ver, en principio ahí abajo tampoco veo ningún resto de espina, ni de pescado, ni de comida, ni de ninguna cosa. Es verdad que tiene algún dato de como de reflujo, no sé si han notado algo de acidez, después de las comidas, alguna cosa así, ¿eso te ha pasado? No me ha pasado nunca la verdad eso, pero alguna vez sí, pero en pocas ocasiones que yo recuerdo. Vale, perfecto, pues vamos a echar un vistas a alguna cosa más. Bueno, como esto es una consulta un poco especial por ser quien eres tú, no es algo que hago yo en media día, pero voy a escultarte, vale. Voy a pedir un fomento porque hace cuatro años que no uso uno, dame un segundo que voy a por él, vale. Mira, voy a escultarte primero el corazón, ¿de acuerdo? Mira, vamos a escuchar un poquito, vale. Mira, parece que tienes como un pequeño soplo, vale, hay un soplo pequeñito y parece como que se irradió un poquito hacia la carótida, vale. ¿Habían dicho algo alguna vez? ¿Habían contado algo? No, y me está preocupando, ¿y esto qué quiere decir, doctor? Vale, pues no lo sé, quizás debería mandarte al cardiólogo a que te echaran un ojo, vale. Bueno, hay que estudiarlo, hay que estudiarlo, vale. Mira, que yo soy una persona nerviosa en general, no sé si espero que no tenga nada que ver con eso, no? No lo sé, vamos a verlo, yo te cito con el cardiólogo y no tratamos demasiado. Vamos a escultar ahora los pulmones si te parece, vale, en principio parece que está todo limpio, no se oye nada, ha tenido algún catarro hace poco, alguna cosita, no? Vale, fenomenal, vale, pues en principio... Los pulmones bien, ¿no? Aquí parece que los pulmones están bien, no se escuchan nada raro. Mira, a ver, te cuento un poco quitando eso del corazón, que yo te voy a mandar con el cardiólogo para que te estudie, porque se me escapa un poco, la verdad. Mira, yo lo único que veo y que puede tener algo de relación con eso que dices tú es que hayas podido tener algo de... o que tengas algo de reflujo. ¿Sabes qué pasa? Que la garganta y la laringe son más sensibles a ese tipo de sensaciones, que el propio estómago, pero yo ahora mismo no veo ningún resto de espina, ni ningún trozo de arroz, ni ninguna cosa que me preocupe, ¿vale? O sea que no me voy a tragantar, ¿no? Es que tengo esa sensación alguna vez me había pasado. Yo creo que no, esto habitualmente, como dices tú, pues las personas nerviosas lo notan también un poquito más y se junta un poco todo, se llama también un globo faringe, ¿no? Que como te digo, están muchas veces potenciados por el reflujo. Yo te recomendaría tranquilidad de entrada, sobre todo, ¿vale? Y te voy a poner también un homeprazón para que tome un poquito antes de la comida y de la cena durante seis semanas, ¿vale? Yo creo que con esto es más que suficiente, además estoy a mandar con el cardiólogo, por eso que hemos escuchado la ocultación y, bueno, por lo demás, en principio parece que está todo bastante bien. Yo creo que puedes seguir disfrutando de tu godello con moderación y ya está, por mi parte, nada más que decirte. ¿Alguna duda, alguna cosa que te puede ayudar? Hombre, que me dice que me relaje y que vaya también al cardiólogo, es que no sé, a ver si buen fin. Bueno, no parece para tanto, no parece para tanto, ¿vale? Vale, perfecto. Muchas gracias, doctor. Venga, que tengas buen día. Vale, pues nada, ahora pausamos.",
+    "segments": [
+      {
+        "id": 0,
+        "start": 1.04,
+        "end": 8.78,
+        "text": "¿Dónde me siento, por favor? Bueno días, ¿qué tal? Pues tú me siento y en la silla",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 1,
+        "start": 8.78,
+        "end": 14.18,
+        "text": "blanca, por favor. Cuénteme, ¿cómo le puedo ayudar hoy? ¿Qué le trae por aquí?",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 2,
+        "start": 14.18,
+        "end": 29.54,
+        "text": "Estoy desde hace como desde ayer y estuve comiendo con mi novia un poco de sushi y me noto",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 3,
+        "start": 29.54,
+        "end": 34.7,
+        "text": "como que no me bajó un trozo de comida yo creo y lo tengo aquí en la garganta y",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 4,
+        "start": 34.7,
+        "end": 39.34,
+        "text": "no sé y estoy un poco nervioso casi no pude dormir porque es que yo creo que",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 5,
+        "start": 39.34,
+        "end": 45.62,
+        "text": "mire, perdón, perdón, es que me molesta la garganta. ¿Y qué era? ¿Qué era el sushi?",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 6,
+        "start": 45.62,
+        "end": 53.54,
+        "text": "¿Qué pesadora? Pues era uno de estos, un sashimi o un nigiri de esto que lleva un poco de salmón y lleva",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 7,
+        "start": 53.54,
+        "end": 57.06,
+        "text": "rocito. Es el sushi que comemos siempre o sea de hecho nos encanta y creo que lo",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 8,
+        "start": 57.06,
+        "end": 65.08,
+        "text": "pedimos casi una vez cada dos semanas. ¿Y te parece que se te ha quedado una espina ahí en la garganta?",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 9,
+        "start": 65.08,
+        "end": 71.74,
+        "text": "No, espinas es imposible que tenga porque es un salmón de estos, nunca ha tenido espinas. Yo creo que",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 10,
+        "start": 71.74,
+        "end": 77.38,
+        "text": "no sé exactamente qué es porque es como si me hubiese bajado luego subido un poco y lo tengo por",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 11,
+        "start": 77.38,
+        "end": 84.46,
+        "text": "aquí y es como si tuviese algo pastoso. Yo trato de tragar y es verdad que si veo un poco de agua",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 12,
+        "start": 84.46,
+        "end": 92.02,
+        "text": "trago bien pero no sé, me tiene bastante nervioso y cuando quise dormir y me costaba dormir porque tenía",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 13,
+        "start": 92.02,
+        "end": 98.54,
+        "text": "miedo de que me iba de atragantarme. ¿Cuéntame un poco, háblame de tu antecedente personal,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 14,
+        "start": 98.54,
+        "end": 106.3,
+        "text": "¿tiene alguna enfermedad? ¿tomás tratamiento para algo? No tomo tratamiento para nada y tengo",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 15,
+        "start": 106.3,
+        "end": 114.54,
+        "text": "pues simplemente un poco de rimitis alérgica de vez en cuando en primavera sobre todo pero no tomo",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 16,
+        "start": 114.54,
+        "end": 123.98,
+        "text": "ningún... ¿Alérgico alguna medicación? No que yo sepa. ¿Fumas? No, no fumo nada. Sí creo un poco,",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 17,
+        "start": 123.98,
+        "end": 129.42,
+        "text": "o sea me gusta mucho, además lo que me suele gustar es el godello, el godello gallego allí,",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 18,
+        "start": 129.42,
+        "end": 134.74,
+        "text": "sobre todo de Val de Horras que es de donde soy yo y eso sí que tomo, ahí sí que soy",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 19,
+        "start": 134.74,
+        "end": 140.9,
+        "text": "pecador. Tomo solo tomar un vasito, una copita o dos más bien el fin de semana pero eso es uno",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 20,
+        "start": 140.9,
+        "end": 144.66,
+        "text": "de mis rituales. Yo ya sé que ahora la medicina dice que cualquier cantidad de alcohol es mala pero",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 21,
+        "start": 144.66,
+        "end": 152.5,
+        "text": "yo es que lo disfruto muchísimo sobre todo mi amigo de Gito de Val de Horras. ¿Usted no bebe",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 22,
+        "start": 152.5,
+        "end": 159.82,
+        "text": "doctor de esto? La verdad que no bebo nada, ni bebo ni fumo, tengo ese defecto. Mi abuelo que",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 23,
+        "start": 159.82,
+        "end": 165.14,
+        "text": "vendía vino decía que los que no beben alcohol no son buenas personas pero que le vamos a hacer, yo",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 24,
+        "start": 165.14,
+        "end": 171.14,
+        "text": "tengo tengo tengo que predicar con el ejemplo. Lo hubiese condonado su abuelo, estoy seguro.",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 25,
+        "start": 171.14,
+        "end": 175.9,
+        "text": "Cuéntame, cuéntame Jorge, ¿tiene algún antecedente familiar en tu familia y alguien con alguna",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 26,
+        "start": 175.9,
+        "end": 183.14,
+        "text": "enfermedad, alguna cosa? No, bueno mi madre sí, mi madre tiene así algún tipo de, es un poco",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 27,
+        "start": 183.14,
+        "end": 188.9,
+        "text": "neurótica así pero poco más. Vale, oye y vale pues te parece que te echemos un vizazo, miramos",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 28,
+        "start": 188.98,
+        "end": 196.18,
+        "text": "tu garganta, vemos qué tal. Sí, vale y antes de eso, se me olvidó decir también, voy a necesitar un",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 29,
+        "start": 196.18,
+        "end": 200.86,
+        "text": "papelito porque para que me cuentes también qué he estado por aquí porque la estoy trabajando todo",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 30,
+        "start": 200.86,
+        "end": 206.98,
+        "text": "el día en todo momento casi y necesito luego presentar algo al trabajo como que he estado por",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 31,
+        "start": 206.98,
+        "end": 212.14,
+        "text": "aquí, ¿te parece? Venga genial, pues luego te hago un justificante, no te preocupes. Venga",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 32,
+        "start": 212.14,
+        "end": 219.42,
+        "text": "pues vamos a echar un vizacillo, vale. Abre la boca por favor. Vale pues bueno tienes unas amiguelas",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 33,
+        "start": 219.42,
+        "end": 224.58,
+        "text": "así grandotas, pero bueno por lo demás está todo todo bastante normal, no veo ninguna herida ni",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 34,
+        "start": 224.58,
+        "end": 229.82,
+        "text": "sangre ni ninguna cosa por ahí. Mira ahora voy a hacerte una cosa bastante incómoda, nadie me lo",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 35,
+        "start": 229.82,
+        "end": 235.14,
+        "text": "pide dos veces, vale. Te voy a meterte una camarita por la nariz, esto molesto, no tardó mucho,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 36,
+        "start": 235.14,
+        "end": 238.9,
+        "text": "tardó como unos 15-20 segundos pero bueno no va a permitir ver si hay algo ahí abajo, vale.",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 37,
+        "start": 239.18,
+        "end": 245.26,
+        "text": "Vamos a echar un vizacillo, vale, venga, vamos a por ello, empezamos. ¿Qué tal bien? ¿Lo puede aguatar?",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 38,
+        "start": 247.26,
+        "end": 253.9,
+        "text": "Vale, a ver, vale, mira, a ver, en principio ahí abajo tampoco veo ningún resto de espina,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 39,
+        "start": 253.9,
+        "end": 260.98,
+        "text": "ni de pescado, ni de comida, ni de ninguna cosa. Es verdad que tiene algún dato de como de reflujo,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 40,
+        "start": 260.98,
+        "end": 266.1,
+        "text": "no sé si han notado algo de acidez, después de las comidas, alguna cosa así, ¿eso te ha pasado?",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 41,
+        "start": 266.3,
+        "end": 274.06,
+        "text": "No me ha pasado nunca la verdad eso, pero alguna vez sí, pero en pocas ocasiones que yo recuerdo.",
+        "speaker": "speaker_1"
+      },
+      {
+        "id": 42,
+        "start": 274.06,
+        "end": 279.86,
+        "text": "Vale, perfecto, pues vamos a echar un vistas a alguna cosa más. Bueno, como esto es una",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 43,
+        "start": 279.86,
+        "end": 283.74,
+        "text": "consulta un poco especial por ser quien eres tú, no es algo que hago yo en media día,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 44,
+        "start": 283.74,
+        "end": 291.54,
+        "text": "pero voy a escultarte, vale. Voy a pedir un fomento porque hace cuatro años que no uso uno,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 45,
+        "start": 291.54,
+        "end": 296.86,
+        "text": "dame un segundo que voy a por él, vale. Mira, voy a escultarte primero el corazón,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 46,
+        "start": 296.86,
+        "end": 304.5,
+        "text": "¿de acuerdo? Mira, vamos a escuchar un poquito, vale. Mira, parece que tienes como un pequeño soplo,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 47,
+        "start": 304.5,
+        "end": 311.9,
+        "text": "vale, hay un soplo pequeñito y parece como que se irradió un poquito hacia la carótida,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 48,
+        "start": 313.4,
+        "end": 318.34,
+        "text": "vale. ¿Habían dicho algo alguna vez? ¿Habían contado algo? No, y me está preocupando,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 49,
+        "start": 318.34,
+        "end": 322.98,
+        "text": "¿y esto qué quiere decir, doctor? Vale, pues no lo sé, quizás debería mandarte al",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 50,
+        "start": 322.98,
+        "end": 329.66,
+        "text": "cardiólogo a que te echaran un ojo, vale. Bueno, hay que estudiarlo, hay que estudiarlo, vale.",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 51,
+        "start": 329.66,
+        "end": 333.5,
+        "text": "Mira, que yo soy una persona nerviosa en general, no sé si espero que no tenga nada que ver con eso,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 52,
+        "start": 333.5,
+        "end": 339.42,
+        "text": "no? No lo sé, vamos a verlo, yo te cito con el cardiólogo y no tratamos demasiado.",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 53,
+        "start": 339.42,
+        "end": 343.9,
+        "text": "Vamos a escultar ahora los pulmones si te parece, vale, en principio parece que está todo limpio,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 54,
+        "start": 344.34,
+        "end": 352.94,
+        "text": "no se oye nada, ha tenido algún catarro hace poco, alguna cosita, no? Vale, fenomenal, vale, pues en",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 55,
+        "start": 352.94,
+        "end": 357.3,
+        "text": "principio... Los pulmones bien, ¿no? Aquí parece que los pulmones están bien, no se escuchan nada raro.",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 56,
+        "start": 357.3,
+        "end": 361.02,
+        "text": "Mira, a ver, te cuento un poco quitando eso del corazón, que yo te voy a mandar con el cardiólogo",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 57,
+        "start": 361.02,
+        "end": 366.62,
+        "text": "para que te estudie, porque se me escapa un poco, la verdad. Mira, yo lo único que veo y que",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 58,
+        "start": 366.62,
+        "end": 370.74,
+        "text": "puede tener algo de relación con eso que dices tú es que hayas podido tener algo de... o que",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 59,
+        "start": 370.82,
+        "end": 376.02,
+        "text": "tengas algo de reflujo. ¿Sabes qué pasa? Que la garganta y la laringe son más sensibles a ese",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 60,
+        "start": 376.02,
+        "end": 382.74,
+        "text": "tipo de sensaciones, que el propio estómago, pero yo ahora mismo no veo ningún resto de espina,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 61,
+        "start": 382.74,
+        "end": 387.58,
+        "text": "ni ningún trozo de arroz, ni ninguna cosa que me preocupe, ¿vale? O sea que no me voy a tragantar,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 62,
+        "start": 387.58,
+        "end": 393.34,
+        "text": "¿no? Es que tengo esa sensación alguna vez me había pasado. Yo creo que no, esto habitualmente,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 63,
+        "start": 393.34,
+        "end": 397.98,
+        "text": "como dices tú, pues las personas nerviosas lo notan también un poquito más y se junta un",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 64,
+        "start": 397.98,
+        "end": 402.38,
+        "text": "poco todo, se llama también un globo faringe, ¿no? Que como te digo, están muchas veces potenciados",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 65,
+        "start": 402.38,
+        "end": 408.58,
+        "text": "por el reflujo. Yo te recomendaría tranquilidad de entrada, sobre todo, ¿vale? Y te voy a poner",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 66,
+        "start": 408.58,
+        "end": 415.14,
+        "text": "también un homeprazón para que tome un poquito antes de la comida y de la cena durante seis semanas,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 67,
+        "start": 415.14,
+        "end": 419.02,
+        "text": "¿vale? Yo creo que con esto es más que suficiente, además estoy a mandar con el cardiólogo,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 68,
+        "start": 419.02,
+        "end": 425.1,
+        "text": "por eso que hemos escuchado la ocultación y, bueno, por lo demás, en principio parece que",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 69,
+        "start": 425.14,
+        "end": 431.94,
+        "text": "está todo bastante bien. Yo creo que puedes seguir disfrutando de tu godello con moderación y ya está,",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 70,
+        "start": 431.94,
+        "end": 436.7,
+        "text": "por mi parte, nada más que decirte. ¿Alguna duda, alguna cosa que te puede ayudar?",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 71,
+        "start": 436.7,
+        "end": 442.06,
+        "text": "Hombre, que me dice que me relaje y que vaya también al cardiólogo, es que no sé, a ver si buen fin.",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 72,
+        "start": 442.06,
+        "end": 444.82,
+        "text": "Bueno, no parece para tanto, no parece para tanto, ¿vale?",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 73,
+        "start": 444.82,
+        "end": 448.46,
+        "text": "Vale, perfecto. Muchas gracias, doctor. Venga, que tengas buen día.",
+        "speaker": "speaker_0"
+      },
+      {
+        "id": 74,
+        "start": 448.46,
+        "end": 452.46,
+        "text": "Vale, pues nada, ahora pausamos.",
+        "speaker": "speaker_0"
+      }
+    ],
+    "timing": {
+      "elapsed_seconds": 138.52966380119324
+    },
+    "diarization": [
+      {
+        "start": 2.466,
+        "end": 7.646,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 7.81,
+        "end": 17.31,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 17.506,
+        "end": 19.23,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 19.778,
+        "end": 20.798,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 21.666,
+        "end": 23.294,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 23.842,
+        "end": 27.678,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 28.162,
+        "end": 38.398,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 38.818,
+        "end": 42.75,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 42.978,
+        "end": 47.134,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 47.874,
+        "end": 59.23,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 59.586,
+        "end": 65.598,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 65.73,
+        "end": 85.566,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 87.266,
+        "end": 89.63,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 89.89,
+        "end": 94.206,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 94.754,
+        "end": 101.438,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 103.074,
+        "end": 112.222,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 113.73,
+        "end": 116.542,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 117.346,
+        "end": 118.494,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 118.818,
+        "end": 119.966,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 121.89,
+        "end": 145.182,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 145.73,
+        "end": 149.246,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 149.826,
+        "end": 171.902,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 172.322,
+        "end": 177.374,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 177.73,
+        "end": 185.438,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 185.538,
+        "end": 193.538,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 193.538,
+        "end": 209.538,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 209.538,
+        "end": 217.374,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 217.602,
+        "end": 228.734,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 229.09,
+        "end": 242.174,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 243.874,
+        "end": 246.942,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 247.042,
+        "end": 248.542,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 249.602,
+        "end": 265.602,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 265.602,
+        "end": 273.602,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 275.17,
+        "end": 294.078,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 294.37,
+        "end": 297.15,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 297.41,
+        "end": 300.382,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 301.922,
+        "end": 304.83,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 307.106,
+        "end": 308.51,
+        "speaker": "speaker_1"
+      },
+      {
+        "start": 308.77,
+        "end": 312.062,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 314.434,
+        "end": 327.774,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 328.29,
+        "end": 334.622,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 334.85,
+        "end": 344.35,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 344.674,
+        "end": 347.614,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 350.466,
+        "end": 377.086,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 378.818,
+        "end": 433.118,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 433.378,
+        "end": 437.022,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 437.346,
+        "end": 450.046,
+        "speaker": "speaker_0"
+      },
+      {
+        "start": 451.522,
+        "end": 452.53575,
+        "speaker": "speaker_0"
+      }
+    ],
+    "text_by_speaker": {
+      "speaker_1": "¿Dónde me siento, por favor? Bueno días, ¿qué tal? Pues tú me siento y en la silla Estoy desde hace como desde ayer y estuve comiendo con mi novia un poco de sushi y me noto como que no me bajó un trozo de comida yo creo y lo tengo aquí en la garganta y no sé y estoy un poco nervioso casi no pude dormir porque es que yo creo que mire, perdón, perdón, es que me molesta la garganta. ¿Y qué era? ¿Qué era el sushi? ¿Qué pesadora? Pues era uno de estos, un sashimi o un nigiri de esto que lleva un poco de salmón y lleva rocito. Es el sushi que comemos siempre o sea de hecho nos encanta y creo que lo No, espinas es imposible que tenga porque es un salmón de estos, nunca ha tenido espinas. Yo creo que no sé exactamente qué es porque es como si me hubiese bajado luego subido un poco y lo tengo por aquí y es como si tuviese algo pastoso. Yo trato de tragar y es verdad que si veo un poco de agua trago bien pero no sé, me tiene bastante nervioso y cuando quise dormir y me costaba dormir porque tenía ¿tiene alguna enfermedad? ¿tomás tratamiento para algo? No tomo tratamiento para nada y tengo pues simplemente un poco de rimitis alérgica de vez en cuando en primavera sobre todo pero no tomo ningún... ¿Alérgico alguna medicación? No que yo sepa. ¿Fumas? No, no fumo nada. Sí creo un poco, o sea me gusta mucho, además lo que me suele gustar es el godello, el godello gallego allí, sobre todo de Val de Horras que es de donde soy yo y eso sí que tomo, ahí sí que soy pecador. Tomo solo tomar un vasito, una copita o dos más bien el fin de semana pero eso es uno de mis rituales. Yo ya sé que ahora la medicina dice que cualquier cantidad de alcohol es mala pero yo es que lo disfruto muchísimo sobre todo mi amigo de Gito de Val de Horras. ¿Usted no bebe enfermedad, alguna cosa? No, bueno mi madre sí, mi madre tiene así algún tipo de, es un poco papelito porque para que me cuentes también qué he estado por aquí porque la estoy trabajando todo el día en todo momento casi y necesito luego presentar algo al trabajo como que he estado por No me ha pasado nunca la verdad eso, pero alguna vez sí, pero en pocas ocasiones que yo recuerdo.",
+      "speaker_0": "blanca, por favor. Cuénteme, ¿cómo le puedo ayudar hoy? ¿Qué le trae por aquí? pedimos casi una vez cada dos semanas. ¿Y te parece que se te ha quedado una espina ahí en la garganta? miedo de que me iba de atragantarme. ¿Cuéntame un poco, háblame de tu antecedente personal, doctor de esto? La verdad que no bebo nada, ni bebo ni fumo, tengo ese defecto. Mi abuelo que vendía vino decía que los que no beben alcohol no son buenas personas pero que le vamos a hacer, yo tengo tengo tengo que predicar con el ejemplo. Lo hubiese condonado su abuelo, estoy seguro. Cuéntame, cuéntame Jorge, ¿tiene algún antecedente familiar en tu familia y alguien con alguna neurótica así pero poco más. Vale, oye y vale pues te parece que te echemos un vizazo, miramos tu garganta, vemos qué tal. Sí, vale y antes de eso, se me olvidó decir también, voy a necesitar un aquí, ¿te parece? Venga genial, pues luego te hago un justificante, no te preocupes. Venga pues vamos a echar un vizacillo, vale. Abre la boca por favor. Vale pues bueno tienes unas amiguelas así grandotas, pero bueno por lo demás está todo todo bastante normal, no veo ninguna herida ni sangre ni ninguna cosa por ahí. Mira ahora voy a hacerte una cosa bastante incómoda, nadie me lo pide dos veces, vale. Te voy a meterte una camarita por la nariz, esto molesto, no tardó mucho, tardó como unos 15-20 segundos pero bueno no va a permitir ver si hay algo ahí abajo, vale. Vamos a echar un vizacillo, vale, venga, vamos a por ello, empezamos. ¿Qué tal bien? ¿Lo puede aguatar? Vale, a ver, vale, mira, a ver, en principio ahí abajo tampoco veo ningún resto de espina, ni de pescado, ni de comida, ni de ninguna cosa. Es verdad que tiene algún dato de como de reflujo, no sé si han notado algo de acidez, después de las comidas, alguna cosa así, ¿eso te ha pasado? Vale, perfecto, pues vamos a echar un vistas a alguna cosa más. Bueno, como esto es una consulta un poco especial por ser quien eres tú, no es algo que hago yo en media día, pero voy a escultarte, vale. Voy a pedir un fomento porque hace cuatro años que no uso uno, dame un segundo que voy a por él, vale. Mira, voy a escultarte primero el corazón, ¿de acuerdo? Mira, vamos a escuchar un poquito, vale. Mira, parece que tienes como un pequeño soplo, vale, hay un soplo pequeñito y parece como que se irradió un poquito hacia la carótida, vale. ¿Habían dicho algo alguna vez? ¿Habían contado algo? No, y me está preocupando, ¿y esto qué quiere decir, doctor? Vale, pues no lo sé, quizás debería mandarte al cardiólogo a que te echaran un ojo, vale. Bueno, hay que estudiarlo, hay que estudiarlo, vale. Mira, que yo soy una persona nerviosa en general, no sé si espero que no tenga nada que ver con eso, no? No lo sé, vamos a verlo, yo te cito con el cardiólogo y no tratamos demasiado. Vamos a escultar ahora los pulmones si te parece, vale, en principio parece que está todo limpio, no se oye nada, ha tenido algún catarro hace poco, alguna cosita, no? Vale, fenomenal, vale, pues en principio... Los pulmones bien, ¿no? Aquí parece que los pulmones están bien, no se escuchan nada raro. Mira, a ver, te cuento un poco quitando eso del corazón, que yo te voy a mandar con el cardiólogo para que te estudie, porque se me escapa un poco, la verdad. Mira, yo lo único que veo y que puede tener algo de relación con eso que dices tú es que hayas podido tener algo de... o que tengas algo de reflujo. ¿Sabes qué pasa? Que la garganta y la laringe son más sensibles a ese tipo de sensaciones, que el propio estómago, pero yo ahora mismo no veo ningún resto de espina, ni ningún trozo de arroz, ni ninguna cosa que me preocupe, ¿vale? O sea que no me voy a tragantar, ¿no? Es que tengo esa sensación alguna vez me había pasado. Yo creo que no, esto habitualmente, como dices tú, pues las personas nerviosas lo notan también un poquito más y se junta un poco todo, se llama también un globo faringe, ¿no? Que como te digo, están muchas veces potenciados por el reflujo. Yo te recomendaría tranquilidad de entrada, sobre todo, ¿vale? Y te voy a poner también un homeprazón para que tome un poquito antes de la comida y de la cena durante seis semanas, ¿vale? Yo creo que con esto es más que suficiente, además estoy a mandar con el cardiólogo, por eso que hemos escuchado la ocultación y, bueno, por lo demás, en principio parece que está todo bastante bien. Yo creo que puedes seguir disfrutando de tu godello con moderación y ya está, por mi parte, nada más que decirte. ¿Alguna duda, alguna cosa que te puede ayudar? Hombre, que me dice que me relaje y que vaya también al cardiólogo, es que no sé, a ver si buen fin. Bueno, no parece para tanto, no parece para tanto, ¿vale? Vale, perfecto. Muchas gracias, doctor. Venga, que tengas buen día. Vale, pues nada, ahora pausamos."
+    },
+    "diarization_meta": {
+      "enabled": true,
+      "n_speakers": 2,
+      "vad_threshold": 0.35,
+      "min_segment_s": 1.0,
+      "max_segment_s": 8.0,
+      "fallback_applied": false,
+      "speaker_share": {
+        "speaker_1": 0.352103849597135,
+        "speaker_0": 0.6478961504028649
+      }
+    }
+  },
+  "history": {
+    "meta": {
+      "generated_at": "2026-01-16T03:38:46.323013",
+      "lang": "es",
+      "version": "mvp-0.1",
+      "sentence_splitter": "regex"
+    },
+    "text": {
+      "normalized": "¿Dónde me siento, por favor? Bueno días, ¿qué tal? Pues tú me siento y en la silla blanca, por favor. Cuénteme, ¿cómo le puedo ayudar hoy? ¿Qué le trae por aquí? Estoy desde hace como desde ayer y estuve comiendo con mi novia un poco de sushi y me noto como que no me bajó un trozo de comida yo creo y lo tengo aquí en la garganta y no sé y estoy un poco nervioso casi no pude dormir porque es que yo creo que mire, perdón, perdón, es que me molesta la garganta. ¿Y qué era? ¿Qué era el sushi? ¿Qué pesadora? Pues era uno de estos, un sashimi o un nigiri de esto que lleva un poco de salmón y lleva rocito. Es el sushi que comemos siempre o sea de hecho nos encanta y creo que lo pedimos casi una vez cada dos semanas. ¿Y te parece que se te ha quedado una espina ahí en la garganta? No, espinas es imposible que tenga porque es un salmón de estos, nunca ha tenido espinas. Yo creo que no sé exactamente qué es porque es como si me hubiese bajado luego subido un poco y lo tengo por aquí y es como si tuviese algo pastoso. Yo trato de tragar y es verdad que si veo un poco de agua trago bien pero no sé, me tiene bastante nervioso y cuando quise dormir y me costaba dormir porque tenía miedo de que me iba de atragantarme. ¿Cuéntame un poco, háblame de tu antecedente personal, ¿tiene alguna enfermedad? ¿tomás tratamiento para algo? No tomo tratamiento para nada y tengo pues simplemente un poco de rimitis alérgica de vez en cuando en primavera sobre todo pero no tomo ningún... ¿Alérgico alguna medicación? No que yo sepa. ¿Fumas? No, no fumo nada. Sí creo un poco, o sea me gusta mucho, además lo que me suele gustar es el godello, el godello gallego allí, sobre todo de Val de Horras que es de donde soy yo y eso sí que tomo, ahí sí que soy pecador. Tomo solo tomar un vasito, una copita o dos más bien el fin de semana pero eso es uno de mis rituales. Yo ya sé que ahora la medicina dice que cualquier cantidad de alcohol es mala pero yo es que lo disfruto muchísimo sobre todo mi amigo de Gito de Val de Horras. ¿Usted no bebe doctor de esto? La verdad que no bebo nada, ni bebo ni fumo, tengo ese defecto. Mi abuelo que vendía vino decía que los que no beben alcohol no son buenas personas pero que le vamos a hacer, yo tengo tengo tengo que predicar con el ejemplo. Lo hubiese condonado su abuelo, estoy seguro. Cuéntame, cuéntame Jorge, ¿tiene algún antecedente familiar en tu familia y alguien con alguna enfermedad, alguna cosa? No, bueno mi madre sí, mi madre tiene así algún tipo de, es un poco neurótica así pero poco más. Vale, oye y vale pues te parece que te echemos un vizazo, miramos tu garganta, vemos qué tal. Sí, vale y antes de eso, se me olvidó decir también, voy a necesitar un papelito porque para que me cuentes también qué he estado por aquí porque la estoy trabajando todo el día en todo momento casi y necesito luego presentar algo al trabajo como que he estado por aquí, ¿te parece? Venga genial, pues luego te hago un justificante, no te preocupes. Venga pues vamos a echar un vizacillo, vale. Abre la boca por favor. Vale pues bueno tienes unas amiguelas así grandotas, pero bueno por lo demás está todo todo bastante normal, no veo ninguna herida ni sangre ni ninguna cosa por ahí. Mira ahora voy a hacerte una cosa bastante incómoda, nadie me lo pide dos veces, vale. Te voy a meterte una camarita por la nariz, esto molesto, no tardó mucho, tardó como unos 15-20 segundos pero bueno no va a permitir ver si hay algo ahí abajo, vale. Vamos a echar un vizacillo, vale, venga, vamos a por ello, empezamos. ¿Qué tal bien? ¿Lo puede aguatar? Vale, a ver, vale, mira, a ver, en principio ahí abajo tampoco veo ningún resto de espina, ni de pescado, ni de comida, ni de ninguna cosa. Es verdad que tiene algún dato de como de reflujo, no sé si han notado algo de acidez, después de las comidas, alguna cosa así, ¿eso te ha pasado? No me ha pasado nunca la verdad eso, pero alguna vez sí, pero en pocas ocasiones que yo recuerdo. Vale, perfecto, pues vamos a echar un vistas a alguna cosa más. Bueno, como esto es una consulta un poco especial por ser quien eres tú, no es algo que hago yo en media día, pero voy a escultarte, vale. Voy a pedir un fomento porque hace cuatro años que no uso uno, dame un segundo que voy a por él, vale. Mira, voy a escultarte primero el corazón, ¿de acuerdo? Mira, vamos a escuchar un poquito, vale. Mira, parece que tienes como un pequeño soplo, vale, hay un soplo pequeñito y parece como que se irradió un poquito hacia la carótida, vale. ¿Habían dicho algo alguna vez? ¿Habían contado algo? No, y me está preocupando, ¿y esto qué quiere decir, doctor? Vale, pues no lo sé, quizás debería mandarte al cardiólogo a que te echaran un ojo, vale. Bueno, hay que estudiarlo, hay que estudiarlo, vale. Mira, que yo soy una persona nerviosa en general, no sé si espero que no tenga nada que ver con eso, no? No lo sé, vamos a verlo, yo te cito con el cardiólogo y no tratamos demasiado. Vamos a escultar ahora los pulmones si te parece, vale, en principio parece que está todo limpio, no se oye nada, ha tenido algún catarro hace poco, alguna cosita, no? Vale, fenomenal, vale, pues en principio... Los pulmones bien, ¿no? Aquí parece que los pulmones están bien, no se escuchan nada raro. Mira, a ver, te cuento un poco quitando eso del corazón, que yo te voy a mandar con el cardiólogo para que te estudie, porque se me escapa un poco, la verdad. Mira, yo lo único que veo y que puede tener algo de relación con eso que dices tú es que hayas podido tener algo de... o que tengas algo de reflujo. ¿Sabes qué pasa? Que la garganta y la laringe son más sensibles a ese tipo de sensaciones, que el propio estómago, pero yo ahora mismo no veo ningún resto de espina, ni ningún trozo de arroz, ni ninguna cosa que me preocupe, ¿vale? O sea que no me voy a tragantar, ¿no? Es que tengo esa sensación alguna vez me había pasado. Yo creo que no, esto habitualmente, como dices tú, pues las personas nerviosas lo notan también un poquito más y se junta un poco todo, se llama también un globo faringe, ¿no? Que como te digo, están muchas veces potenciados por el reflujo. Yo te recomendaría tranquilidad de entrada, sobre todo, ¿vale? Y te voy a poner también un homeprazón para que tome un poquito antes de la comida y de la cena durante seis semanas, ¿vale? Yo creo que con esto es más que suficiente, además estoy a mandar con el cardiólogo, por eso que hemos escuchado la ocultación y, bueno, por lo demás, en principio parece que está todo bastante bien. Yo creo que puedes seguir disfrutando de tu godello con moderación y ya está, por mi parte, nada más que decirte. ¿Alguna duda, alguna cosa que te puede ayudar? Hombre, que me dice que me relaje y que vaya también al cardiólogo, es que no sé, a ver si buen fin. Bueno, no parece para tanto, no parece para tanto, ¿vale? Vale, perfecto. Muchas gracias, doctor. Venga, que tengas buen día. Vale, pues nada, ahora pausamos."
+    },
+    "sections": {
+      "general": "¿Dónde me siento, por favor? Bueno días, ¿qué tal? Pues tú me siento y en la silla blanca, por favor. Cuénteme, ¿cómo le puedo ayudar hoy? ¿Qué le trae por aquí?",
+      "hpi": "Estoy desde hace como desde ayer y estuve comiendo con mi novia un poco de sushi y me noto como que no me bajó un trozo de comida yo creo y lo tengo aquí en la garganta y no sé y estoy un poco nervioso casi no pude dormir porque es que yo creo que mire, perdón, perdón, es que me molesta la garganta. ¿Y qué era? ¿Qué era el sushi? ¿Qué pesadora? Pues era uno de estos, un sashimi o un nigiri de esto que lleva un poco de salmón y lleva rocito. Es el sushi que comemos siempre o sea de hecho nos encanta y creo que lo pedimos casi una vez cada dos semanas. ¿Y te parece que se te ha quedado una espina ahí en la garganta? No, espinas es imposible que tenga porque es un salmón de estos, nunca ha tenido espinas. Yo creo que no sé exactamente qué es porque es como si me hubiese bajado luego subido un poco y lo tengo por aquí y es como si tuviese algo pastoso. Yo trato de tragar y es verdad que si veo un poco de agua trago bien pero no sé, me tiene bastante nervioso y cuando quise dormir y me costaba dormir porque tenía miedo de que me iba de atragantarme. ¿Cuéntame un poco, háblame de tu antecedente personal, ¿tiene alguna enfermedad?",
+      "plan": "¿tomás tratamiento para algo?",
+      "allergies": "No tomo tratamiento para nada y tengo pues simplemente un poco de rimitis alérgica de vez en cuando en primavera sobre todo pero no tomo ningún... No que yo sepa. ¿Fumas? No, no fumo nada. Sí creo un poco, o sea me gusta mucho, además lo que me suele gustar es el godello, el godello gallego allí, sobre todo de Val de Horras que es de donde soy yo y eso sí que tomo, ahí sí que soy pecador. Tomo solo tomar un vasito, una copita o dos más bien el fin de semana pero eso es uno de mis rituales. Yo ya sé que ahora la medicina dice que cualquier cantidad de alcohol es mala pero yo es que lo disfruto muchísimo sobre todo mi amigo de Gito de Val de Horras. ¿Usted no bebe doctor de esto? La verdad que no bebo nada, ni bebo ni fumo, tengo ese defecto. Mi abuelo que vendía vino decía que los que no beben alcohol no son buenas personas pero que le vamos a hacer, yo tengo tengo tengo que predicar con el ejemplo. Lo hubiese condonado su abuelo, estoy seguro. Cuéntame, cuéntame Jorge, ¿tiene algún antecedente familiar en tu familia y alguien con alguna enfermedad, alguna cosa? No, bueno mi madre sí, mi madre tiene así algún tipo de, es un poco neurótica así pero poco más. Vale, oye y vale pues te parece que te echemos un vizazo, miramos tu garganta, vemos qué tal. Sí, vale y antes de eso, se me olvidó decir también, voy a necesitar un papelito porque para que me cuentes también qué he estado por aquí porque la estoy trabajando todo el día en todo momento casi y necesito luego presentar algo al trabajo como que he estado por aquí, ¿te parece? Venga genial, pues luego te hago un justificante, no te preocupes. Venga pues vamos a echar un vizacillo, vale. Abre la boca por favor. Vale pues bueno tienes unas amiguelas así grandotas, pero bueno por lo demás está todo todo bastante normal, no veo ninguna herida ni sangre ni ninguna cosa por ahí. Mira ahora voy a hacerte una cosa bastante incómoda, nadie me lo pide dos veces, vale. Te voy a meterte una camarita por la nariz, esto molesto, no tardó mucho, tardó como unos 15-20 segundos pero bueno no va a permitir ver si hay algo ahí abajo, vale. Vamos a echar un vizacillo, vale, venga, vamos a por ello, empezamos. ¿Qué tal bien? ¿Lo puede aguatar? Vale, a ver, vale, mira, a ver, en principio ahí abajo tampoco veo ningún resto de espina, ni de pescado, ni de comida, ni de ninguna cosa. Es verdad que tiene algún dato de como de reflujo, no sé si han notado algo de acidez, después de las comidas, alguna cosa así, ¿eso te ha pasado? No me ha pasado nunca la verdad eso, pero alguna vez sí, pero en pocas ocasiones que yo recuerdo. Vale, perfecto, pues vamos a echar un vistas a alguna cosa más. Bueno, como esto es una consulta un poco especial por ser quien eres tú, no es algo que hago yo en media día, pero voy a escultarte, vale. Voy a pedir un fomento porque hace cuatro años que no uso uno, dame un segundo que voy a por él, vale. Mira, voy a escultarte primero el corazón, ¿de acuerdo? Mira, vamos a escuchar un poquito, vale. Mira, parece que tienes como un pequeño soplo, vale, hay un soplo pequeñito y parece como que se irradió un poquito hacia la carótida, vale. ¿Habían dicho algo alguna vez? ¿Habían contado algo? No, y me está preocupando, ¿y esto qué quiere decir, doctor? Vale, pues no lo sé, quizás debería mandarte al cardiólogo a que te echaran un ojo, vale. Bueno, hay que estudiarlo, hay que estudiarlo, vale. Mira, que yo soy una persona nerviosa en general, no sé si espero que no tenga nada que ver con eso, no? No lo sé, vamos a verlo, yo te cito con el cardiólogo y no tratamos demasiado. Vamos a escultar ahora los pulmones si te parece, vale, en principio parece que está todo limpio, no se oye nada, ha tenido algún catarro hace poco, alguna cosita, no? Vale, fenomenal, vale, pues en principio... Los pulmones bien, ¿no? Aquí parece que los pulmones están bien, no se escuchan nada raro. Mira, a ver, te cuento un poco quitando eso del corazón, que yo te voy a mandar con el cardiólogo para que te estudie, porque se me escapa un poco, la verdad. Mira, yo lo único que veo y que puede tener algo de relación con eso que dices tú es que hayas podido tener algo de... o que tengas algo de reflujo. ¿Sabes qué pasa? Que la garganta y la laringe son más sensibles a ese tipo de sensaciones, que el propio estómago, pero yo ahora mismo no veo ningún resto de espina, ni ningún trozo de arroz, ni ninguna cosa que me preocupe, ¿vale? O sea que no me voy a tragantar, ¿no? Es que tengo esa sensación alguna vez me había pasado. Yo creo que no, esto habitualmente, como dices tú, pues las personas nerviosas lo notan también un poquito más y se junta un poco todo, se llama también un globo faringe, ¿no? Que como te digo, están muchas veces potenciados por el reflujo. Yo te recomendaría tranquilidad de entrada, sobre todo, ¿vale? Y te voy a poner también un homeprazón para que tome un poquito antes de la comida y de la cena durante seis semanas, ¿vale? Yo creo que con esto es más que suficiente, además estoy a mandar con el cardiólogo, por eso que hemos escuchado la ocultación y, bueno, por lo demás, en principio parece que está todo bastante bien. Yo creo que puedes seguir disfrutando de tu godello con moderación y ya está, por mi parte, nada más que decirte. ¿Alguna duda, alguna cosa que te puede ayudar? Hombre, que me dice que me relaje y que vaya también al cardiólogo, es que no sé, a ver si buen fin. Bueno, no parece para tanto, no parece para tanto, ¿vale? Vale, perfecto. Muchas gracias, doctor. Venga, que tengas buen día. Vale, pues nada, ahora pausamos."
+    },
+    "entities": {
+      "demographics": {},
+      "vitals": {},
+      "medications": []
+    },
+    "keywords": [
+      "tos"
+    ],
+    "plan": "¿tomás tratamiento para algo?"
+  },
+  "vocab": {
+    "etymology_highlights": [
+      {
+        "term": "rimitis",
+        "normalized": "rimitis",
+        "parts": [
+          {
+            "morpheme": "itis",
+            "meaning": "inflamación"
+          }
+        ]
+      },
+      {
+        "term": "neurótica",
+        "normalized": "neurotica",
+        "parts": [
+          {
+            "morpheme": "neuro",
+            "meaning": "nervios / sistema nervioso"
+          }
+        ]
+      },
+      {
+        "term": "cardiólogo",
+        "normalized": "cardiologo",
+        "parts": [
+          {
+            "morpheme": "cardio",
+            "meaning": "corazón"
+          }
+        ]
+      },
+      {
+        "term": "pulmones",
+        "normalized": "pulmones",
+        "parts": [
+          {
+            "morpheme": "pulmo",
+            "meaning": "pulmón"
+          }
+        ]
+      }
+    ]
+  }
+}

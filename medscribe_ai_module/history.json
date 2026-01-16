@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "generated_at": "2026-01-16T00:26:05.108579",
+    "lang": "es",
+    "version": "mvp-0.1",
+    "sentence_splitter": "regex"
+  },
+  "text": {
+    "normalized": "DOCTOR: Buenas tardes, ¿qué lo trae por aquí? PACIENTE: Desde ayer tengo dolor de cabeza y un poco de náusea. DOCTOR: ¿Ha tenido fiebre, visión borrosa o rigidez en el cuello? PACIENTE: No fiebre, pero sí un poco de sensibilidad a la luz. DOCTOR: Tomaremos presión y temperatura. Presión 120/80, temperatura 36.8. DOCTOR: ¿Toma algún medicamento? PACIENTE: Paracetamol 500 mg cada 8 horas, pero no me ha ayudado. DOCTOR: Impresión diagnóstica: cefalea tensional. Plan: hidratación, reposo, ibuprofeno 400 mg cada 8 horas por 3 días si no hay contraindicación. Signos de alarma: vómito persistente, fiebre, debilidad o empeoramiento."
+  },
+  "sections": {
+    "general": "DOCTOR: Buenas tardes, ¿qué lo trae por aquí? PACIENTE: Desde ayer tengo dolor de cabeza y un poco de náusea. DOCTOR: ¿Ha tenido fiebre, visión borrosa o rigidez en el cuello? PACIENTE: No fiebre, pero sí un poco de sensibilidad a la luz. DOCTOR: Tomaremos presión y temperatura. Presión 120/80, temperatura 36.8.",
+    "medications": "DOCTOR: ¿Toma algún medicamento? PACIENTE: Paracetamol 500 mg cada 8 horas, pero no me ha ayudado.",
+    "assessment": "DOCTOR: Impresión diagnóstica: cefalea tensional.",
+    "plan": "Plan: hidratación, reposo, ibuprofeno 400 mg cada 8 horas por 3 días si no hay contraindicación. Signos de alarma: vómito persistente, fiebre, debilidad o empeoramiento."
+  },
+  "entities": {
+    "demographics": {},
+    "vitals": {
+      "blood_pressure": {
+        "systolic": 120,
+        "diastolic": 80,
+        "unit": "mmHg"
+      },
+      "temperature": {
+        "value": 36.8,
+        "unit": "°C"
+      }
+    },
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "dose": {
+          "value": 500.0,
+          "unit": "mg"
+        },
+        "frequency": "cada 8 h",
+        "raw": "Paracetamol 500 mg cada 8 horas"
+      },
+      {
+        "name": "ibuprofeno",
+        "dose": {
+          "value": 400.0,
+          "unit": "mg"
+        },
+        "frequency": "cada 8 h",
+        "raw": "ibuprofeno 400 mg cada 8 horas por 3 días si no hay contraindicación"
+      }
+    ]
+  },
+  "keywords": [
+    "dolor",
+    "fiebre",
+    "náusea",
+    "vómito",
+    "cefalea"
+  ],
+  "assessment": "DOCTOR: Impresión diagnóstica: cefalea tensional.",
+  "plan": "Plan: hidratación, reposo, ibuprofeno 400 mg cada 8 horas por 3 días si no hay contraindicación. Signos de alarma: vómito persistente, fiebre, debilidad o empeoramiento.",
+  "vocab": {
+    "etymology_highlights": [
+      {
+        "term": "cefalea",
+        "normalized": "cefalea",
+        "parts": [
+          {
+            "morpheme": "cefal",
+            "meaning": "cabeza"
+          }
+        ]
+      }
+    ]
+  }
+}
