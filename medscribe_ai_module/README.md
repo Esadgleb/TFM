@@ -42,3 +42,4 @@ python -m medscribe_ai highlight --text "Probable gastritis y neuralgia" --max-t
 
 Este repo está pensado para **probar** y **evolucionar** el módulo de IA de forma aislada.
 La integración con el resto del sistema (DB/UI/Flask) se implementa después.
+De momento solo hace distincion de entre medico y paciente via clasificacion de palabras clave que comunmnete usan los pacientes vs palabras clave que usa el medico en cuestion.
